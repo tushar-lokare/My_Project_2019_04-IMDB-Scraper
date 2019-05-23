@@ -1,0 +1,7 @@
+This scraper will scrape the data from the imdb webpage
+Top 250 Movies as voted for by IMDb users
+
+https://www.imdb.com/list/ls068082370/?sort=list_order,asc&st_dt=&mode=simple&page=1&ref_=ttls_vw_smp
+https://www.imdb.com/list/ls068082370/?sort=list_order,asc&st_dt=&mode=simple&page=2&ref_=ttls_vw_smp
+https://www.imdb.com/list/ls068082370/?sort=list_order,asc&st_dt=&mode=simple&page=3&ref_=ttls_vw_smp
+
